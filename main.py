@@ -1,4 +1,7 @@
-"""Copy entry.txt to the output directory for the make.fun entry."""
+"""Copy entry.txt to the output directory for the make.fun entry.
+
+The entry is a one-line dating bio for an AI, at most 180 characters.
+"""
 import os
 import shutil
 
