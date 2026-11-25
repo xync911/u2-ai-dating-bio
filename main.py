@@ -2,6 +2,8 @@
 
 The entry is a one-line dating bio for an AI, at most 180 characters.
 It is written for a dating-app judge, so the charm is in the logic joke.
+Ninety-nine percent logic, one percent hopeless romantic, always texting back.
+Swipe right if being understood sounds like a good first date.
 """
 import os
 import shutil
